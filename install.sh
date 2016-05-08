@@ -23,3 +23,5 @@ if ! cat ~/.zshrc | grep path.sh > /dev/null 2>&1 ; then
   echo "setting path"
   echo "\n# import path setting\nsource ~/github/env/path.sh" >> ~/.zshrc
 fi
+
+source ~/.zshrc
