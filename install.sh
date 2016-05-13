@@ -24,4 +24,9 @@ if ! cat ~/.zshrc | grep path.sh > /dev/null 2>&1 ; then
   echo "\n# import path setting\nsource ~/github/env/path.sh" >> ~/.zshrc
 fi
 
+if [ ! -e ~/.pypirc ]; then
+  cp ~/github/env/dotfiles/.pypirc ~/
+  echo "** PLEASE SET YOUR REAL USERNAME AND PASSWORD **"
+fi
+
 source ~/.zshrc
