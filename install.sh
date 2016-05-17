@@ -1,3 +1,5 @@
+#! /bin/sh -e
+
 if [ -e ~/github ]; then
   echo "~/github exists"
 else
