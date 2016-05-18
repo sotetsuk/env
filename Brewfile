@@ -1,6 +1,7 @@
 tap 'caskroom/cask'
 tap 'homebrew/bundle'
 
+brew 'npm'
 brew 'apache-spark'
 brew 'autoconf'
 brew 'gdbm'
