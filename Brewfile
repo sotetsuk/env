@@ -19,6 +19,8 @@ brew 'sbt'
 brew 'scala'
 brew 'wget'
 brew 'zsh'
+brew 'gs'
+brew 'imagemagick'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'
