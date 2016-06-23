@@ -22,6 +22,7 @@ brew 'zsh'
 brew 'gs'
 brew 'imagemagick'
 brew 'aspell'
+brew 'mas'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'

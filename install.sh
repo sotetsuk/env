@@ -38,3 +38,6 @@ fi
 
 # load .zshrc
 source ~/.zshrc
+
+# Mac apps
+sh ~/github/env/mas.sh
