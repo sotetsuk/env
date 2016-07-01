@@ -10,5 +10,5 @@ fi
 export GOPATH=~/gopath
 export PATH=$GOPATH/bin:$PATH
 
-# GAE/GO sdk (download from https://cloud.google.com/appengine/downloads#Google_App_Engine_SDK_for_Go)
-export PATH=~/go_appengine:$PATH
+# bin
+export PATH=~/bin:$PATH
