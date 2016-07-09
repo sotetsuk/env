@@ -25,6 +25,7 @@ brew 'imagemagick'
 brew 'aspell'
 brew 'mas'
 brew 'fortune'
+brew 'figlet'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'
