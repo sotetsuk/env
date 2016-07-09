@@ -13,3 +13,7 @@ export PATH=$GOPATH/bin:$PATH
 # bin
 export PATH=~/bin:$PATH
 export PATH=~/bin/go_appengine:$PATH # https://cloud.google.com/appengine/downloads
+
+# direnv
+export EDITOR=vi
+eval "$(direnv hook zsh)"
