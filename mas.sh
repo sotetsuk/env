@@ -13,5 +13,11 @@ mas install 957734279
 # xcode
 mas install 497799835
 
+# Be Focused Pro
+mas install 961632517
+
+# Fantastical 2
+mas install 975937182
+
 # upgrade
 mas upgrade
