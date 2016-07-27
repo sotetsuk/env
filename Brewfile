@@ -2,6 +2,7 @@ tap 'caskroom/cask'
 tap 'homebrew/bundle'
 
 cask 'java'
+brew 'maven'
 brew 'npm'
 brew 'apache-spark'
 brew 'autoconf'
