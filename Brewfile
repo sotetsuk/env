@@ -24,6 +24,7 @@ brew 'gs'
 brew 'imagemagick'
 brew 'aspell'
 brew 'mas'
+brew 'direnv'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'
