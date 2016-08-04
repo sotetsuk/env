@@ -17,4 +17,3 @@ export PATH=~/bin/go_appengine:$PATH # https://cloud.google.com/appengine/downlo
 # direnv http://qiita.com/kompiro/items/5fc46089247a56243a62
 export EDITOR=vi
 eval "$(direnv hook zsh)"
-
