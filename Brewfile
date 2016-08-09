@@ -29,6 +29,7 @@ brew 'fortune'
 brew 'figlet'
 brew 'cmatrix'
 brew 'textql'
+brew 'tig'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'
