@@ -31,6 +31,7 @@ brew 'figlet'
 brew 'cmatrix'
 brew 'textql'
 brew 'tig'
+brew 'pyenv-virtualenv'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'
