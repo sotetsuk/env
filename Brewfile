@@ -32,6 +32,7 @@ brew 'cmatrix'
 brew 'textql'
 brew 'tig'
 brew 'pyenv-virtualenv'
+brew 'graphviz'
 
 cask 'google-chrome'
 cask 'google-japanese-ime'
