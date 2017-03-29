@@ -37,6 +37,7 @@ brew 'boost'
 brew 'cmake'
 brew 'hg'
 brew 'docker'
+brew 'docker-compose'
 brew 'docker-machine'
 
 cask 'google-chrome'
